@@ -24,4 +24,12 @@ Amazon Price Tracker is a web application designed to help users monitor the pri
 - **Other Libraries**: 
   - Cheerio (for web scraping)
   - Dotenv (for environment variables)
+    
+ - **Add your Env files**:
+ - MONGO_URI=your_mongodb_connection_string
+ - PORT=your_preferred_port
+    
+
+ 
+  - 
 
