@@ -1,7 +1,5 @@
 # Amazon Price Tracker
 
-**Live Link**: [Amazon Price Tracker](https://price-tracker-v24h.onrender.com/)
-
 Amazon Price Tracker is a web application designed to help users monitor the prices of products from Amazon. Users can fetch and track the current and discounted prices of products and view the history of tracked products.
 
 ## Features
